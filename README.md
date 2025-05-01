@@ -15,7 +15,8 @@ A modern weather application built with NextJS (frontend) and Laravel (backend) 
 - **API**: OpenWeatherMap API
 
 ## Screenshots
-[Include screenshots here]
+![image](https://github.com/user-attachments/assets/9cac1286-a24d-401b-813a-f130e98560b7)
+
 
 ## Setup Instructions
 
